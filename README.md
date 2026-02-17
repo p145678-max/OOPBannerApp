@@ -1,2 +1,2 @@
 # OOPBannerApp
-OOPBannerApp for learning Java Use Cases and Git and GitFlow
+OOPBannerApp for learning Java through Use Cases and Git and GitFlow
